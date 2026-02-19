@@ -1,19 +1,16 @@
-# :earth_americas: GDP dashboard template
 
-A simple Streamlit app showing the GDP of different countries in the world.
+CONTRIBUTING.md
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+# Contributing to Bullet Train 888 🚄
 
-### How to run it on your own machine
+### 🤝 The Respect Pact
+To contribute to this project, you must honor the principle of mutual respect. Technical excellence is only accepted here with truth and loyalty.
 
-1. Install the requirements
+### 🛠 How to Contribute
+1. Focus on Frequency 11 (Radial Geometry).
+2. Ensure the code is "Clean" (No noise).
+3. Respect the origin: 1984.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+### 🔒 Security
+No external data access is allowed. The management is closed under Key 84.
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
